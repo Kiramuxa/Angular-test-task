@@ -30,6 +30,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
 ```
 
 
+
 ### Задание 2.
  
  1. Сгенерировать компонент app-start-page при помощи [Angular CLI](https://cli.angular.io)
